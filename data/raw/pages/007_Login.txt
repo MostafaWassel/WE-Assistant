@@ -1,0 +1,24 @@
+URL: https://te.eg/wps/myportal/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDXAARwP9gmxHRQCBXI7R
+Title: Login
+============================================================
+
+Z6_00000000000000A0BR2B300GC4
+
+{}
+
+| Z7_50D2I0S0L0EG70A1BR7S6B30G0
+
+# Log in with your Portal account
+
+User ID:Password: Not registered? [Sign up](/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDVCAo4FTkJGTsYGBu7OJfjghBVEY0sgKgfqjsChBmGBhgFUBihkFuREGmY6KigAORUEE/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwR1Yw/?cID=Z6_00000000000000A0BR2B300GC4&initialState=enrollment&nID=Z6_00000000000000A0BR2B300GC4) 
+--- 
+ 
+Complementary Content [](/wps/contenthandler/!ut/p/digest!LejEKmt_0o49pQhpcZvO_w/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&locale=en&locale=ar&mime-type=text%2Fjavascript&lm=1772335522000&entry=wp_portal_ui_utils__0.0%3Aconfig_js&entry=wp_federated_documents_picker__0.0%3Aconfig_js&entry=wp_toolbar_menuactions__0.0%3Aconfig_js&entry=wp_liveobject_framework_core__0.0%3Aconfig_js&entry=wp_dnd_main__0.0%3Aconfig_js&entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&entry=wp_contextmenu_js__0.0%3Aconfig_js&entry=wp_content_targeting_cam__0.0%3Aconfig_js&entry=wp_analytics_tags__0.0%3Aconfig_js&entry=wp_movecontrols__0.0%3Aconfig_js&entry=wp_toolbar_controlactions__0.0%3Aconfig_js&deferred=true)
+
+ * ${title}${badge}
+
+${loading}
+
+ * 
+
+[](/wps/contenthandler/!ut/p/digest!wyb5NAWrYNIc-vVfbK077w/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&locale=en&locale=ar&mime-type=text%2Fplain&entry=wp_dnd_main__0.0%3Aconfig_markup&entry=wp_contextmenu_templates__0.0%3Aconfig_markup&deferred=true)
